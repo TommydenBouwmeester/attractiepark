@@ -1,0 +1,6 @@
+{
+  "host": "localhost",
+  "gebruiker": "user",
+  "wachtwoord": "password",
+  "database": "attractiepark"
+}
