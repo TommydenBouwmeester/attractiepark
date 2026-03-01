@@ -18,3 +18,4 @@ geheim = "5"
 raad = input (" Raad het getal: ")
 print ("Goed geraden?", raad == geheim)
 
+#test
